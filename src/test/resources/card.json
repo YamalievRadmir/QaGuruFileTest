@@ -1,8 +1,5 @@
 {
   "name": "Radmir",
   "isGoodStudent": true,
-  "age": 28,
-  "passport": {
-    "number": 1234
-  }
+  "age": 28
 }
